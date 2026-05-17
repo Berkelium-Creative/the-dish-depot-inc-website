@@ -1,47 +1,138 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "The Dish Depot, Inc",
+  "tagline": "Restaurant supply wholesaler · W Garfield Ave, Glendale.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLENDALE · WHOLESALE · OPEN MON-SAT",
+    "heading": "Everything a kitchen needs. Wholesale pricing.",
+    "subheading": "Restaurant supply for the LA-area kitchens. Smallwares, glassware, china, prep equipment, and consumables — wholesale-priced, in stock, ready for same-day pickup.",
+    "ctaText": "Call the desk",
+    "ctaLink": "tel:8182464000",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "The warehouse",
+    "heading": "Wholesale for restaurants. Walk-in welcome.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "The Dish Depot has been on Garfield Avenue since 2002, supplying restaurants, cafes, and catering operations across the LA basin. Family-owned, family-run, and twenty-three years deep into the same customer accounts.",
+      "We carry smallwares, glassware, china, kitchen prep equipment, refrigeration, and consumables. If it goes into a commercial kitchen, we either stock it or can have it on a truck inside three business days.",
+      "Wholesale-priced for restaurants and walk-in friendly for chefs ordering for their own kitchens. Closed Sundays."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Smallwares & Prep",
+      "description": "Sheet pans, mixing bowls, ladles, knives, cutting boards, prep containers. The day-one essentials.",
+      "price": "in stock"
+    },
+    {
+      "title": "Glassware & China",
+      "description": "Restaurant-grade glassware, plate ware, mugs, and serving pieces. Mix-and-match by the case.",
+      "price": "by case"
+    },
+    {
+      "title": "Refrigeration",
+      "description": "Reach-ins, prep tables, under-counters, glass-door merchandisers. Quote and delivery within the week.",
+      "price": "quote"
+    },
+    {
+      "title": "Cooking Equipment",
+      "description": "Ranges, griddles, fryers, char-broilers, ovens, hoods. New and certified-used inventory rotating constantly.",
+      "price": "quote"
+    },
+    {
+      "title": "Consumables",
+      "description": "Take-out, packaging, gloves, sanitation, paper goods. Bulk discounts on standing orders.",
+      "price": "bulk"
+    },
+    {
+      "title": "Custom Quote",
+      "description": "Opening a new kitchen, expanding, or refitting? Send us your specs — we'll quote the whole package against your line items.",
+      "price": "free"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Vahe S.",
+      "rating": 5,
+      "context": "Chef · Glendale brasserie",
+      "text": "The Dish Depot has been the supplier for both kitchens I've opened in LA. Their pricing is wholesale-honest, the desk staff knows what they have, and same-day pickup is a real thing here."
+    },
+    {
+      "name": "Lucia M.",
+      "rating": 4,
+      "context": "Pastry chef · catering",
+      "text": "Best place in town for restaurant-grade sheet pans and pastry tools. The price per case is unbeatable and the consultations are genuinely useful."
+    },
+    {
+      "name": "Robert C.",
+      "rating": 5,
+      "context": "Owner · downtown bar",
+      "text": "Bought the glassware for our bar opening from Dish Depot and we've been buying our consumables there for three years. They know our standing order by phone."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 246-4000",
+    "email": "orders@dishdepot.com",
+    "address": "546 W Garfield Ave, Glendale, CA 91204",
+    "mapEmbedQuery": "Dish Depot, 546 W Garfield Ave, Glendale, CA 91204",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "10:00 AM – 5:00 PM",
+      "Tuesday": "10:00 AM – 5:00 PM",
+      "Wednesday": "10:00 AM – 5:00 PM",
+      "Thursday": "10:00 AM – 5:00 PM",
+      "Friday": "10:00 AM – 5:00 PM",
+      "Saturday": "10:00 AM – 4:00 PM",
       "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    }
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/dishdepotinc/",
+    "facebook": "https://www.facebook.com/dishdepotinc/",
+    "yelp": "https://www.yelp.com/biz/the-dish-depot-glendale"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "The Dish Depot — Restaurant supply wholesaler in Glendale",
+    "description": "Family-owned restaurant supply wholesaler on W Garfield Ave, Glendale. Smallwares, glassware, china, refrigeration, cooking equipment, consumables.",
+    "keywords": [
+      "restaurant supply Glendale",
+      "wholesale kitchen equipment LA",
+      "Glendale restaurant supply store",
+      "Garfield Ave wholesaler"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#0F172A",
+    "accentColor": "#F59E0B",
+    "fontFamily": "sixcaps-inter-anonymous"
+  },
+  "designSystem": {
+    "searchQuery": "b2b warehouse wholesale restaurant supply industrial utility forklift amber steel",
+    "styleName": "B2B Wholesale Utility (warehouse register)",
+    "pattern": "Hero + Stock + CTA (utility list)",
+    "palette": {
+      "primary": "#0F172A",
+      "secondary": "#475569",
+      "cta": "#F59E0B",
+      "accent": "#F59E0B",
+      "background": "#FAFAFA",
+      "text": "#0F172A",
+      "muted": "#475569",
+      "border": "#0F172A",
+      "surface": "#1E293B"
+    },
+    "typography": {
+      "heading": "Six Caps",
+      "body": "Inter",
+      "label": "Anonymous Pro",
+      "mood": "b2b, wholesale, industrial, warehouse-stock-list, amber-signal"
+    },
+    "moves": [
+      "Six Caps narrow-condensed display — warehouse spec-label feel",
+      "Amber signal top bar with // mono separators — forklift-tape language",
+      "Hero on full charcoal slab with amber 'WHOLESALE PRICING' callout",
+      "Stock list as 3-col aisle blocks on rack-blue panel with amber hairlines",
+      "Reviews as bordered order cards with `// ORDER №0001` mono headers",
+      "Visit on amber with charcoal address block — first amber-primary visit block in build"
+    ]
   }
 }
